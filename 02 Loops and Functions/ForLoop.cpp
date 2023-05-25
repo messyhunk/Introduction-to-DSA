@@ -4,10 +4,10 @@ using namespace std;
 int main()
 {
     int n;
-    cout << "Enter a value" << endl;
+    cout << "Enter a number" << endl;
     cin >> n;
 
-    cout << "Printing count from 1 to value provided" << endl;
+    cout << "Printing count from 1 to number provided" << endl;
     int i = 1;
     for (;;)
     {
